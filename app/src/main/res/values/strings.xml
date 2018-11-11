@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App4</string>
+    <string name="call">Call</string>
+    <string name="view_map">View Map</string>
+    <string name="view_web_page">View Web Page</string>
+    <string name="send_mail">Send Mail</string>
+</resources>
